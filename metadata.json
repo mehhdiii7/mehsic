@@ -1,0 +1,6 @@
+{
+  "name": "Mehsic",
+  "description": "Mehsic is a premium laptop-first web music player with high-fidelity audio, word-synced lyrics, and rich library management.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
